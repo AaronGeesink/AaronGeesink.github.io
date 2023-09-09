@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6592d40.css",
+    "main.js": "/static/js/main.6e10537f.js",
+    "static/js/787.ab590b9d.chunk.js": "/static/js/787.ab590b9d.chunk.js",
+    "static/media/Aaron_Geesink_Resume.pdf": "/static/media/Aaron_Geesink_Resume.254e6c7bc1c5412d08e4.pdf",
+    "static/media/verne.png": "/static/media/verne.5e122607b90cd317fdb8.png",
+    "static/media/typefight.png": "/static/media/typefight.ab2ab4a956dc051abf25.png",
+    "static/media/dungeondesigner.png": "/static/media/dungeondesigner.e56eae98d2ea90594e31.png",
+    "index.html": "/index.html",
+    "main.d6592d40.css.map": "/static/css/main.d6592d40.css.map",
+    "main.6e10537f.js.map": "/static/js/main.6e10537f.js.map",
+    "787.ab590b9d.chunk.js.map": "/static/js/787.ab590b9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6592d40.css",
+    "static/js/main.6e10537f.js"
+  ]
+}
